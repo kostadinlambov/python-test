@@ -5,6 +5,7 @@ def main(msg):
 
 
 def secondary():
+    # New comment
     print("New function")
 
 print("Hello World!")
